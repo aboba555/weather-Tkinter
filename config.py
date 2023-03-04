@@ -1,1 +1,1 @@
-openWeatherBot = "bb7dc0302764ac37244640c00454a1cd"
+openWeatherBot = ")"
